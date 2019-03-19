@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.pdb
